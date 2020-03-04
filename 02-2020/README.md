@@ -15,7 +15,7 @@ Now days, as a frontend developer we need to think about web performance also, b
   
  Here are some points we need to take care of while developing a website/web app  
   
-#### Media optimisation
+### Media optimisation
 we are using following types of media in website in form of Image and SVG. so we can use (below Listed) website/tools for optimisation  
   
 **Image**  
@@ -24,14 +24,14 @@ we are using following types of media in website in form of Image and SVG. so we
 **SVG**  
 [svgomg](https://jakearchibald.github.io/svgomg), [svg go](https://github.com/svg/svgo)  
   
-#### Reduce HTTP calls
+### Reduce HTTP calls
 To reduce less http calls we need to organised our css and js files properly and with usage of some good bundler like [Webpack](https://webpack.js.org/), [Parcle](https://parceljs.org/), [Laravel Mix](https://laravel-mix.com/docs/5.0/installation) we can make bundles of our css and js files.
 
-#### Third party hosting for assets
+### Third party hosting for assets
 It's good to host images and videos to another server and use them as a CDN to our project. because dedicated third party hosting service like [Cloudinary](https://cloudinary.com/), [Amazon cloudfront](https://aws.amazon.com/cloudfront/) made to provide your asset speedily, already have good servers and optimised structure for delivering asset.  
 yes it increase our cost :D    
 
-#### Lazy loading media
+### Lazy loading media
 Load all images/iframes eagerly is making high impact on website loading time. so it's good to load all images and iframe when it actually came into view port and it also reduce our HTTP call.
 there are many way to do this using javascript like [Lazy Loading](https://css-tricks.com/snippets/javascript/lazy-loading-images/)  
   
@@ -39,6 +39,6 @@ there are many way to do this using javascript like [Lazy Loading](https://css-t
 
 
 ## Project Structure
-We can manage our scss structure like this [click here](https://www.sitepoint.com/architecture-sass-project/)  
+We can manage our scss structure like this [See here](https://www.sitepoint.com/architecture-sass-project/)  
   
 *Please note that all things we discussed/referred is our own way to get work done. this is not recommended/useful in all cases so think about what fits best to you*
