@@ -2,7 +2,7 @@
 
 **Point Covered**
 * Web Performance
-  * [Media optimasation](#media-optimisation)
+  * [Media optimisation](#media-optimisation)
   * [Reduce HTTP calls](#reduce-http-calls)
   * [Third party hosting for assets](#third-party-hosting-for-assets)
   * [Lazy loading of media](#lazy-loading-media)
