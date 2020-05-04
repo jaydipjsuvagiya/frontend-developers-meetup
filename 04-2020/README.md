@@ -4,8 +4,8 @@
 * Setup a project from scratch using CLI and Package Manager
 
 **Tools/Prerequisites for getting started**
-* make sure you machine is connected with the Internet :D 
-* [Node Js](https://nodejs.org/en/download/) (Recommended LTS version)
+* make sure your machine is connected with the Internet :D 
+* [Node Js](https://nodejs.org/en/download/) (LTS version recommended)
 * basic understanding of [CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
 * basic understanding of [package managers](https://blog.idrsolutions.com/2018/07/what-is-a-package-manager-and-why-should-you-use-one/)
     * A package manager is a programming language’s tool to create project environments and easily import external dependencies.
@@ -15,16 +15,16 @@
 **Packages used**
 * [Jquery](https://www.npmjs.com/package/jquery)
 * [Bootstrap](https://www.npmjs.com/package/bootstrap) | [Documentation](https://getbootstrap.com/)
-* [Laravel-mix](https://www.npmjs.com/package/laravel-mix) | [Instalation Guide](https://laravel-mix.com/docs/5.0/installation)
+* [Laravel-mix](https://www.npmjs.com/package/laravel-mix) | [Installation Guide](https://laravel-mix.com/docs/5.0/installation)
 
-**Step by step guide to creat a project**
+**Step by step guide to create a project**
 * Create a directory/folder and open this in command prompt/terminal (for this you need basic understanding of [CLI](https://www.w3schools.com/whatis/whatis_cli.asp) like how to navigate to particular directory)
 * Type below command to generate package.json file (this command only work if your machine has [Node/NPM](https://nodejs.org/en/download/) installed)  
 ```
 npm init -y
 ```
 *  now you can check in your folder for [package.json](https://www.digitalocean.com/community/tutorials/nodejs-package-json) file
-* now creat SRC directory with necessary file(this is directory where we write our development code)
+* now create SRC directory with necessary files(In this directory we will write our development code)
 ![src directory](https://user-images.githubusercontent.com/38717853/80941510-4101c280-8e00-11ea-9ad6-bf7d141c02a5.png)
 * let's add packages listed at top by following commands
 ```
@@ -47,7 +47,7 @@ require("bootstrap/dist/js/bootstrap.bundle");
 require("jquery");
 require("bootstrap/dist/js/bootstrap.bundle");
 ``` 
-* now it's turn to generate webpack.mix.js file at root(for compiling/bundling our scss and js file to our production folder. you can check [laravel-mix](https://laravel-mix.com/docs/5.0/installation) documentation for more)
+* now it's time to generate webpack.mix.js file at root level of our directory(for compiling/bundling our scss and js file to our production folder. you can check [laravel-mix](https://laravel-mix.com/docs/5.0/installation) documentation for more)
 ```
 let mix = require('laravel-mix');
 mix.js('src/js/app.js', 'public/assets/js/')
