@@ -13,12 +13,11 @@
 * basic understanding of [package.json](https://www.digitalocean.com/community/tutorials/nodejs-package-json) file  
 <br/>
 <br/>
-**Packages used**
+**Packages used**  
 * [Jquery](https://www.npmjs.com/package/jquery)
 * [Bootstrap](https://www.npmjs.com/package/bootstrap) | [Documentation](https://getbootstrap.com/)
-* [Laravel-mix](https://www.npmjs.com/package/laravel-mix) | [Instalation Guide](https://laravel-mix.com/docs/5.0/installation)  
-<br/>
-<br/>
+* [Laravel-mix](https://www.npmjs.com/package/laravel-mix) | [Instalation Guide](https://laravel-mix.com/docs/5.0/installation)
+
 ###Step by step guide to creat a project
 * Create a directory/folder and open this in command prompt/terminal (for this you need basic understanding of [CLI](https://www.w3schools.com/whatis/whatis_cli.asp) like how to navigate to particular directory)
 * Type below command to generate package.json file (this command only work if your machine has [Node/NPM](https://nodejs.org/en/download/) installed)  
