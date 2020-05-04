@@ -67,4 +67,6 @@ npm run watch
 * now if you check your project directory you should see public folder with your js and css file, so you can use this as you want  
 ![final folder structure](https://user-images.githubusercontent.com/38717853/80943782-9ab8bb80-8e05-11ea-8158-ddfc772dd7f2.png)
 
-*Please note that all things we discussed/referred is our own way to get work done. this is not recommended/useful in all cases so think about what fits best to you*
+*Please note that all things we discussed/referred is our own way to get work done. this is not recommended/useful in all cases so think about what fits best to you*  
+
+* we dont have any social media accounts for this meetup/community so meanwhile you can stay connected with me on [twitter](https://twitter.com/suvagiyajd?lang=en), [LinkedIn](https://in.linkedin.com/in/s-jaydip), and [instagram](https://www.instagram.com/jaydip.suvagiya/) for further updates for upcoming meetups.   
