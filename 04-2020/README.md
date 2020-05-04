@@ -2,8 +2,7 @@
 
 **Point Covered**
 * Setup a project from scratch using CLI and Package Manager  
-<br/>
-<br/>
+
 **Tools/Prerequisites for getting started**
 * make sure you machine is connected with the Internet :D 
 * [Node Js](https://nodejs.org/en/download/) (Recommended LTS version)
