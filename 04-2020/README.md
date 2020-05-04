@@ -55,7 +55,7 @@ mix.js('src/js/app.js', 'public/assets/js/')
    .sass('src/scss/app.scss', 'public/assets/css/');
 ``` 
 ![webpack.mix.js](https://user-images.githubusercontent.com/38717853/80942773-46acd780-8e03-11ea-8b39-81c834e72c9b.png)
-* now add scripts to our package.json file. scripts can be found [here](https://laravel-mix.com/docs/5.0/installation#npm-scripts) (please read the [package.json](https://www.digitalocean.com/community/tutorials/nodejs-package-json) anatomy if you don't familiar with that)
+* now add scripts to our package.json file. scripts can be found [here](https://laravel-mix.com/docs/5.0/installation#npm-scripts) (please read the [package.json](https://www.digitalocean.com/community/tutorials/nodejs-package-json) anatomy if you don't familiar with that)  
 ![](https://user-images.githubusercontent.com/38717853/80943018-d8b4e000-8e03-11ea-8e64-2e9e1c98a20f.png)
 * now hit this command for handle different environments(mac and window)
 ```
@@ -65,7 +65,7 @@ npm install cross-env --save-dev
 ```
 npm run watch
 ```
-* now if you check your project directory you should see public folder with your js and css file, so you can use this as you want
+* now if you check your project directory you should see public folder with your js and css file, so you can use this as you want  
 ![final folder structure](https://user-images.githubusercontent.com/38717853/80943782-9ab8bb80-8e05-11ea-8158-ddfc772dd7f2.png)
 
 *Please note that all things we discussed/referred is our own way to get work done. this is not recommended/useful in all cases so think about what fits best to you*
