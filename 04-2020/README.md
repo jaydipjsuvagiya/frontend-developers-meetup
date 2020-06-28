@@ -40,4 +40,4 @@ mix.js('src/js/app.js', 'public/assets/js/')
 
 *Please note that all things we discussed/referred is our own way to get work done. this is not recommended/useful in all cases so think about what fits best to you*  
 
-*currently we dont have any social media accounts for this meetup/community so meanwhile you can stay connected with me on [twitter](https://twitter.com/suvagiyajd?lang=en), [LinkedIn](https://in.linkedin.com/in/s-jaydip), and [instagram](https://www.instagram.com/jaydip.suvagiya/) for further updates for upcoming meetups.*
+*currently we dont have any social media accounts for this meetup/community so meanwhile you can stay connected with me on [twitter](https://twitter.com/jaydipjsuvagiya), [LinkedIn](https://in.linkedin.com/in/jaydipjsuvagiya), and [instagram](https://www.instagram.com/jaydipjsuvagiya) for further updates for upcoming meetups.*
