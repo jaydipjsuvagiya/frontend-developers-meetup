@@ -27,7 +27,7 @@
 * now include jquery and bootstrap js to our app.js file<br/>```require("jquery");  require("bootstrap/dist/js/bootstrap.bundle");```  
 ![add jquery and bootstrap js to app.js file](images-for-readme/add-js-to-app-js-file.png) 
 * now it's time to generate webpack.mix.js file at root level of our directory(for compiling/bundling our scss and js file to our production folder. you can check [laravel-mix](https://laravel-mix.com/docs/5.0/installation) documentation for more) 
-![webpack.mix.js](images-for-readme/webpack-mix.png)  
+![webpack.mix.js](images-for-readme/webpack-mix.png)   
 ```
 let mix = require('laravel-mix');
 mix.js('src/js/app.js', 'public/assets/js/')
